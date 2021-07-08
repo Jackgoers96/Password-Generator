@@ -14,8 +14,8 @@ Follow the link to the page, select "generate" and follow the prompts as necessa
 
 ​https://jackgoers96.github.io/Password-Generator/
 
-​![portfolio demo](./Assets/giphy.gif) ![alt text](Assets/images/giphy.png)
-![image](./Assets/Untitled.png) ![alt text](Assets/Untitled.png)
+​![portfolio demo](./Assets/giphy.gif)
+![image](./Assets/Untitled.png) 
 
 ## Credits
 
@@ -31,9 +31,4 @@ https://github.com/AlenaReh
 
 ## License
 
-​​
-​
-
----
-
-​
+--
